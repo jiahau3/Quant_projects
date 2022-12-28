@@ -1,0 +1,23 @@
+,FOXA,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",15.72,15.8,Valuation,0.9949367088607595
+Price/Sales (TTM),1.17,2.92,Valuation,0.4006849315068493
+Price/Book (MRQ),1.48,3.23,Valuation,0.4582043343653251
+"PEG Ratio (TTM, GAAP)",2.49,10.23,Valuation,0.2434017595307918
+Gross Profit Margin (TTM),0.3483,0.5389,Profitability,0.6463165707923547
+Operating Profit Margin (TTM),0.16899999999999998,0.14,Profitability,1.2071428571428569
+Net Profit Margin (TTM),0.0806,0.1103,Profitability,0.7307343608340889
+Gross Profit Margin (TTM),0.3483,0.5389,Dividend,0.6463165707923547
+Operating Profit Margin (TTM),0.16899999999999998,0.14,Dividend,1.2071428571428569
+Net Profit Margin (TTM),0.0806,0.1103,Dividend,0.7307343608340889
+EPS Growth (MRQ),1.0135,0.7041,Gowth rates,1.4394262178667805
+EPS Growth (TTM),-0.3308,0.0154,Gowth rates,-21.48051948051948
+Revenue Growth (MRQ),0.0524,0.1423,Gowth rates,0.36823612087139845
+Revenue Growth (TTM),0.0668,0.1115,Gowth rates,0.5991031390134529
+Return On Equity (TTM),0.0966,0.1409,Effectiveness,0.6855926188786374
+Return On Assets (TTM),0.0499,0.0388,Effectiveness,1.286082474226804
+Return On Investment (TTM),0.0572,0.049800000000000004,Effectiveness,1.14859437751004
+Revenue Per Employee (TTM),1332170.0,648551.0,Effectiveness,2.054071306651289
+Total Debt/Total Capital (MRQ),0.3796,0.5946,Financial strength,0.6384123780692903
+Change in Debt/Total Capital Quarter over Quarter,-0.0006,0.0004,Financial strength,-1.4999999999999998
+Quick Ratio (MRQ),3.16,0.26,Financial strength,12.153846153846153
+Interest Coverage (MRQ),21.04,5.53,Financial strength,3.804701627486437

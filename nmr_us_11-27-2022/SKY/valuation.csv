@@ -1,0 +1,23 @@
+,SKY,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",6.99,7.14,Valuation,0.9789915966386555
+Price/Sales (TTM),1.07,7.33,Valuation,0.14597544338335608
+Price/Book (MRQ),2.66,2.07,Valuation,1.2850241545893721
+"PEG Ratio (TTM, GAAP)",,0.43,Valuation,
+Gross Profit Margin (TTM),0.3148,0.3091,Profitability,1.0184406340989973
+Operating Profit Margin (TTM),0.2052,0.1507,Profitability,1.3616456536164565
+Net Profit Margin (TTM),0.1536,0.11320000000000001,Profitability,1.3568904593639575
+Annual Dividend Yield,,0.016399999999999998,Dividend,
+Dividend Change %,,0.2639,Dividend,
+"Dividend Growth Rate, 3 Years",,0.1757,Dividend,
+EPS Growth (MRQ),0.22760000000000002,-0.0688,Gowth rates,-3.3081395348837215
+EPS Growth (TTM),1.777,0.16670000000000001,Gowth rates,10.659868026394719
+Revenue Growth (MRQ),0.1115,0.1173,Gowth rates,0.9505541346973572
+Revenue Growth (TTM),0.4548,0.149,Gowth rates,3.0523489932885908
+Return On Equity (TTM),0.4754,0.38439999999999996,Effectiveness,1.2367325702393341
+Return On Assets (TTM),0.33020000000000005,0.135,Effectiveness,2.445925925925926
+Return On Investment (TTM),0.4455,0.1699,Effectiveness,2.622130665097116
+Revenue Per Employee (TTM),322085.0,1633986.0,Effectiveness,0.19711613196196295
+Total Debt/Total Capital (MRQ),0.044800000000000006,0.29309999999999997,Financial strength,0.15284885704537704
+Change in Debt/Total Capital Quarter over Quarter,-0.0021,-0.0005,Financial strength,4.199999999999999
+Quick Ratio (MRQ),2.17,0.53,Financial strength,4.094339622641509
+Interest Coverage (MRQ),,51.09,Financial strength,

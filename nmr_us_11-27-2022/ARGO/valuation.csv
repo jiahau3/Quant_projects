@@ -1,0 +1,23 @@
+,ARGO,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",,19.61,Valuation,
+Price/Sales (TTM),0.49,2.33,Valuation,0.21030042918454936
+Price/Book (MRQ),0.79,3.82,Valuation,0.2068062827225131
+"PEG Ratio (TTM, GAAP)",,37.63,Valuation,
+Gross Profit Margin (TTM),,0.0226,Profitability,
+Operating Profit Margin (TTM),-0.091,0.1298,Profitability,-0.7010785824345146
+Net Profit Margin (TTM),-0.0953,0.10460000000000001,Profitability,-0.9110898661567877
+Annual Dividend Yield,0.0463,0.0168,Dividend,2.7559523809523814
+Dividend Change %,,-0.0075,Dividend,
+"Dividend Growth Rate, 3 Years",,0.0225,Dividend,
+EPS Growth (MRQ),-1.7158000000000002,-0.0779,Gowth rates,22.02567394094994
+EPS Growth (TTM),-2.7135000000000002,-0.005200000000000001,Gowth rates,521.8269230769231
+Revenue Growth (MRQ),0.0025,0.0897,Gowth rates,0.027870680044593088
+Revenue Growth (TTM),-0.10130000000000002,0.042800000000000005,Gowth rates,-2.3668224299065423
+Return On Equity (TTM),-0.13119999999999998,0.3775,Effectiveness,-0.34754966887417216
+Return On Assets (TTM),-0.0178,0.031200000000000002,Effectiveness,-0.5705128205128205
+Return On Investment (TTM),,0.035,Effectiveness,
+Revenue Per Employee (TTM),1494108.0,1261907.0,Effectiveness,1.1840080132688067
+Total Debt/Total Capital (MRQ),0.25420000000000004,0.4026,Financial strength,0.6313959264778938
+Change in Debt/Total Capital Quarter over Quarter,0.0005,0.002,Financial strength,0.25
+Quick Ratio (MRQ),,,Financial strength,
+Interest Coverage (MRQ),,10.79,Financial strength,

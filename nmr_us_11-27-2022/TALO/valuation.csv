@@ -1,0 +1,23 @@
+,TALO,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",3.7,9.13,Valuation,0.4052573932092004
+Price/Sales (TTM),0.99,7.57,Valuation,0.130779392338177
+Price/Book (MRQ),1.45,4.65,Valuation,0.31182795698924726
+"PEG Ratio (TTM, GAAP)",,0.01,Valuation,
+Gross Profit Margin (TTM),0.8181999999999999,0.35119999999999996,Profitability,2.329726651480638
+Operating Profit Margin (TTM),0.4621,0.192,Profitability,2.4067708333333333
+Net Profit Margin (TTM),0.272,0.0358,Profitability,7.5977653631284925
+Annual Dividend Yield,,0.0379,Dividend,
+Dividend Change %,,0.13269999999999998,Dividend,
+"Dividend Growth Rate, 3 Years",,0.10189999999999999,Dividend,
+EPS Growth (MRQ),0.2812,2.3421000000000003,Gowth rates,0.12006319115323853
+EPS Growth (TTM),1.6141,7.2215,Gowth rates,0.22351312054282352
+Revenue Growth (MRQ),-0.2735,0.7168000000000001,Gowth rates,-0.3815569196428571
+Revenue Growth (TTM),0.6476999999999999,47.807,Gowth rates,0.013548225155311983
+Return On Equity (TTM),0.5029,0.3993,Effectiveness,1.2594540445780116
+Return On Assets (TTM),0.16440000000000002,0.15810000000000002,Effectiveness,1.0398481973434535
+Return On Investment (TTM),0.20879999999999999,0.2237,Effectiveness,0.933392936969155
+Revenue Per Employee (TTM),3818813.0,7554984.0,Effectiveness,0.5054693696240786
+Total Debt/Total Capital (MRQ),0.3679,0.3658,Financial strength,1.0057408419901586
+Change in Debt/Total Capital Quarter over Quarter,-0.0034999999999999996,-0.002,Financial strength,1.7499999999999998
+Quick Ratio (MRQ),,0.96,Financial strength,
+Interest Coverage (MRQ),,13.28,Financial strength,

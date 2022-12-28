@@ -1,0 +1,23 @@
+,ZION,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",9.5,11.29,Valuation,0.8414526129317981
+Price/Sales (TTM),2.49,3.28,Valuation,0.7591463414634148
+Price/Book (MRQ),1.77,1.42,Valuation,1.2464788732394367
+"PEG Ratio (TTM, GAAP)",,1.08,Valuation,
+Gross Profit Margin (TTM),,,Profitability,
+Operating Profit Margin (TTM),0.3514,0.3468,Profitability,1.0132641291810842
+Net Profit Margin (TTM),0.2766,0.2848,Profitability,0.9712078651685394
+Annual Dividend Yield,0.0326,0.028999999999999998,Dividend,1.1241379310344828
+Dividend Change %,0.0588,-0.0087,Dividend,-6.758620689655173
+"Dividend Growth Rate, 3 Years",0.11460000000000001,0.0742,Dividend,1.5444743935309975
+EPS Growth (MRQ),0.09050000000000001,-0.048,Gowth rates,-1.885416666666667
+EPS Growth (TTM),-0.254,-0.10490000000000001,Gowth rates,2.421353670162059
+Revenue Growth (MRQ),0.16280000000000003,0.5294,Gowth rates,0.3075179448432188
+Revenue Growth (TTM),0.0722,0.22469999999999998,Gowth rates,0.3213173119715176
+Return On Equity (TTM),0.13820000000000002,0.1153,Effectiveness,1.1986123156981787
+Return On Assets (TTM),0.0095,0.0101,Effectiveness,0.9405940594059407
+Return On Investment (TTM),,,Effectiveness,
+Revenue Per Employee (TTM),,,Effectiveness,
+Total Debt/Total Capital (MRQ),,0.0,Financial strength,
+Change in Debt/Total Capital Quarter over Quarter,0.0275,0.0009,Financial strength,30.555555555555557
+Quick Ratio (MRQ),,,Financial strength,
+Interest Coverage (MRQ),,,Financial strength,

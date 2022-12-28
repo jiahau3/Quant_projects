@@ -1,0 +1,23 @@
+,RUSHA,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",8.25,17.46,Valuation,0.4725085910652921
+Price/Sales (TTM),0.44,2.11,Valuation,0.2085308056872038
+Price/Book (MRQ),1.7,6.17,Valuation,0.2755267423014587
+"PEG Ratio (TTM, GAAP)",,0.31,Valuation,
+Gross Profit Margin (TTM),0.2137,0.42710000000000004,Profitability,0.5003512058066026
+Operating Profit Margin (TTM),0.0703,0.14730000000000001,Profitability,0.47725729803122874
+Net Profit Margin (TTM),0.0555,0.0835,Profitability,0.6646706586826348
+Annual Dividend Yield,0.016200000000000003,0.0125,Dividend,1.296
+Dividend Change %,0.5,0.053099999999999994,Dividend,9.416195856873824
+"Dividend Growth Rate, 3 Years",0.6736,0.0517,Dividend,13.029013539651837
+EPS Growth (MRQ),-0.17379999999999998,0.4814,Gowth rates,-0.36103032820938924
+EPS Growth (TTM),0.6984,0.5656,Gowth rates,1.234794908062235
+Revenue Growth (MRQ),0.0408,0.1985,Gowth rates,0.20554156171284635
+Revenue Growth (TTM),0.2849,0.2242,Gowth rates,1.2707404103479036
+Return On Equity (TTM),0.2356,0.3129,Effectiveness,0.7529562160434643
+Return On Assets (TTM),0.1112,0.1319,Effectiveness,0.843062926459439
+Return On Investment (TTM),0.16820000000000002,0.17420000000000002,Effectiveness,0.965556831228473
+Revenue Per Employee (TTM),911321.0,1897425.0,Effectiveness,0.4802935557400161
+Total Debt/Total Capital (MRQ),0.44680000000000003,0.4449,Financial strength,1.004270622611823
+Change in Debt/Total Capital Quarter over Quarter,0.0019,0.0005,Financial strength,3.8
+Quick Ratio (MRQ),0.32,1.09,Financial strength,0.2935779816513761
+Interest Coverage (MRQ),19.89,26.1,Financial strength,0.7620689655172413

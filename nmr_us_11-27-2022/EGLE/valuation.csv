@@ -1,0 +1,23 @@
+,EGLE,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",2.79,1.78,Valuation,1.5674157303370786
+Price/Sales (TTM),0.97,1.04,Valuation,0.9326923076923076
+Price/Book (MRQ),0.84,0.9,Valuation,0.9333333333333332
+"PEG Ratio (TTM, GAAP)",,0.01,Valuation,
+Gross Profit Margin (TTM),0.6512000000000001,0.5498,Profitability,1.1844307020734817
+Operating Profit Margin (TTM),0.4119,0.3995,Profitability,1.0310387984981226
+Net Profit Margin (TTM),0.4146,0.3563,Profitability,1.1636261577322482
+Annual Dividend Yield,0.1355,0.2368,Dividend,0.5722128378378378
+Dividend Change %,,-0.0095,Dividend,
+"Dividend Growth Rate, 3 Years",,0.0271,Dividend,
+EPS Growth (MRQ),-0.17370000000000002,0.9296,Gowth rates,-0.18685456110154908
+EPS Growth (TTM),1.9257,2.318,Gowth rates,0.8307592752372734
+Revenue Growth (MRQ),-0.06730000000000001,0.18530000000000002,Gowth rates,-0.3631948192120885
+Revenue Growth (TTM),0.5529000000000001,0.5579,Gowth rates,0.991037820397921
+Return On Equity (TTM),0.4376,0.469,Effectiveness,0.9330490405117271
+Return On Assets (TTM),0.2582,0.2295,Effectiveness,1.1250544662309367
+Return On Investment (TTM),0.295,0.2807,Effectiveness,1.0509440684004274
+Revenue Per Employee (TTM),753128.0,7540424.0,Effectiveness,0.099878733609675
+Total Debt/Total Capital (MRQ),0.2972,0.35590000000000005,Financial strength,0.8350660297836471
+Change in Debt/Total Capital Quarter over Quarter,-0.0029,-0.0014000000000000002,Financial strength,2.071428571428571
+Quick Ratio (MRQ),1.87,1.17,Financial strength,1.5982905982905984
+Interest Coverage (MRQ),19.11,13.85,Financial strength,1.3797833935018051

@@ -1,0 +1,23 @@
+,VECO,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",25.93,20.56,Valuation,1.2611867704280155
+Price/Sales (TTM),1.55,7.41,Valuation,0.20917678812415655
+Price/Book (MRQ),2.27,13.13,Valuation,0.1728865194211729
+"PEG Ratio (TTM, GAAP)",,0.9,Valuation,
+Gross Profit Margin (TTM),0.40950000000000003,0.5489,Profitability,0.7460375296046639
+Operating Profit Margin (TTM),0.1,0.25739999999999996,Profitability,0.3885003885003886
+Net Profit Margin (TTM),0.0716,0.2224,Profitability,0.32194244604316546
+Annual Dividend Yield,,0.014499999999999999,Dividend,
+Dividend Change %,,0.0676,Dividend,
+"Dividend Growth Rate, 3 Years",,0.091,Dividend,
+EPS Growth (MRQ),0.4216,1.5356,Gowth rates,0.27455066423547797
+EPS Growth (TTM),1.2755,0.2274,Gowth rates,5.60905892700088
+Revenue Growth (MRQ),0.0483,0.1335,Gowth rates,0.36179775280898874
+Revenue Growth (TTM),0.1336,0.24170000000000003,Gowth rates,0.5527513446421183
+Return On Equity (TTM),0.10550000000000001,0.36920000000000003,Effectiveness,0.28575297941495126
+Return On Assets (TTM),0.0464,0.16010000000000002,Effectiveness,0.2898188632104934
+Return On Investment (TTM),0.059800000000000006,0.1925,Effectiveness,0.3106493506493507
+Revenue Per Employee (TTM),591485.0,898550.0,Effectiveness,0.6582660953758833
+Total Debt/Total Capital (MRQ),0.3835,0.3576,Financial strength,1.072427293064877
+Change in Debt/Total Capital Quarter over Quarter,-0.0017000000000000001,0.0,Financial strength,-inf
+Quick Ratio (MRQ),1.78,2.24,Financial strength,0.7946428571428571
+Interest Coverage (MRQ),7.59,15.8,Financial strength,0.480379746835443

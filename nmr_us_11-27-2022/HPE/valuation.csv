@@ -1,0 +1,23 @@
+,HPE,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",5.66,22.87,Valuation,0.2474857892435505
+Price/Sales (TTM),0.73,5.73,Valuation,0.12739965095986036
+Price/Book (MRQ),0.99,44.1,Valuation,0.022448979591836733
+"PEG Ratio (TTM, GAAP)",1.02,2.57,Valuation,0.39688715953307396
+Gross Profit Margin (TTM),0.3335,0.4263,Profitability,0.782312925170068
+Operating Profit Margin (TTM),0.135,0.2867,Profitability,0.4708754795953959
+Net Profit Margin (TTM),0.1331,0.23690000000000003,Profitability,0.561840439003799
+Annual Dividend Yield,0.030299999999999997,0.0074,Dividend,4.094594594594594
+Dividend Change %,0.0,0.0593,Dividend,0.0
+"Dividend Growth Rate, 3 Years",-0.005200000000000001,0.0618,Dividend,-0.08414239482200649
+EPS Growth (MRQ),0.6435,0.0139,Gowth rates,46.29496402877698
+EPS Growth (TTM),2.5907999999999998,0.0891,Gowth rates,29.077441077441076
+Revenue Growth (MRQ),0.0355,0.0784,Gowth rates,0.45280612244897955
+Revenue Growth (TTM),0.0123,0.0893,Gowth rates,0.13773796192609183
+Return On Equity (TTM),0.198,1.7101,Effectiveness,0.11578270276592013
+Return On Assets (TTM),0.0653,0.27030000000000004,Effectiveness,0.2415834258231594
+Return On Investment (TTM),0.102,0.45,Effectiveness,0.22666666666666666
+Revenue Per Employee (TTM),463229.0,2289443.0,Effectiveness,0.20233261976821437
+Total Debt/Total Capital (MRQ),0.4018,0.7151000000000001,Financial strength,0.5618794574185428
+Change in Debt/Total Capital Quarter over Quarter,-0.0016,-0.0004,Financial strength,4.0
+Quick Ratio (MRQ),0.66,0.84,Financial strength,0.7857142857142858
+Interest Coverage (MRQ),97.5,317.99,Financial strength,0.3066134155162112

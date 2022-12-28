@@ -1,0 +1,23 @@
+,BIRD,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",,21.69,Valuation,
+Price/Sales (TTM),1.36,3.75,Valuation,0.3626666666666667
+Price/Book (MRQ),1.27,9.43,Valuation,0.13467656415694593
+"PEG Ratio (TTM, GAAP)",,2.33,Valuation,
+Gross Profit Margin (TTM),0.4572,0.49729999999999996,Profitability,0.9193645686708225
+Operating Profit Margin (TTM),-0.2613,0.1348,Profitability,-1.9384272997032639
+Net Profit Margin (TTM),-0.2797,0.0965,Profitability,-2.8984455958549225
+Annual Dividend Yield,,0.013999999999999999,Dividend,
+Dividend Change %,,0.0796,Dividend,
+"Dividend Growth Rate, 3 Years",,0.059800000000000006,Dividend,
+EPS Growth (MRQ),0.1441,0.44920000000000004,Gowth rates,0.32079252003561887
+EPS Growth (TTM),-0.9431,0.0931,Gowth rates,-10.129967776584317
+Revenue Growth (MRQ),-0.0707,0.0901,Gowth rates,-0.7846836847946725
+Revenue Growth (TTM),0.19760000000000003,0.1015,Gowth rates,1.9467980295566503
+Return On Equity (TTM),-0.6143,0.35840000000000005,Effectiveness,-1.714006696428571
+Return On Assets (TTM),-0.2621,0.14250000000000002,Effectiveness,-1.839298245614035
+Return On Investment (TTM),-0.3301,0.1893,Effectiveness,-1.7437929212889594
+Revenue Per Employee (TTM),437756.0,519163.0,Effectiveness,0.8431956822809021
+Total Debt/Total Capital (MRQ),0.0,0.31579999999999997,Financial strength,0.0
+Change in Debt/Total Capital Quarter over Quarter,-0.01,-0.0002,Financial strength,50.0
+Quick Ratio (MRQ),3.54,1.39,Financial strength,2.5467625899280577
+Interest Coverage (MRQ),-728.97,76.17,Financial strength,-9.570303269003546

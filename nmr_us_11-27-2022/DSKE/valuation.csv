@@ -1,0 +1,23 @@
+,DSKE,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",8.4,29.96,Valuation,0.28037383177570097
+Price/Sales (TTM),0.2,3.76,Valuation,0.053191489361702135
+Price/Book (MRQ),2.17,7.0,Valuation,0.31
+"PEG Ratio (TTM, GAAP)",,3.13,Valuation,
+Gross Profit Margin (TTM),0.5139,0.5844,Profitability,0.8793634496919918
+Operating Profit Margin (TTM),0.057999999999999996,0.2133,Profitability,0.2719174871073605
+Net Profit Margin (TTM),0.0286,0.1038,Profitability,0.27552986512524086
+Annual Dividend Yield,,0.013000000000000001,Dividend,
+Dividend Change %,,0.09210000000000002,Dividend,
+"Dividend Growth Rate, 3 Years",,0.09480000000000001,Dividend,
+EPS Growth (MRQ),-0.2515,0.3065,Gowth rates,-0.8205546492659054
+EPS Growth (TTM),-0.0031,0.0956,Gowth rates,-0.03242677824267782
+Revenue Growth (MRQ),-0.0384,0.2373,Gowth rates,-0.1618204804045512
+Revenue Growth (TTM),0.17440000000000003,0.2979,Gowth rates,0.5854313528029541
+Return On Equity (TTM),0.3369,0.1677,Effectiveness,2.0089445438282647
+Return On Assets (TTM),0.0432,0.065,Effectiveness,0.6646153846153846
+Return On Investment (TTM),0.0545,0.06480000000000001,Effectiveness,0.8410493827160492
+Revenue Per Employee (TTM),439191.0,723294.0,Effectiveness,0.6072095164621855
+Total Debt/Total Capital (MRQ),0.7316,0.5356000000000001,Financial strength,1.3659447348767735
+Change in Debt/Total Capital Quarter over Quarter,-0.0003,0.0005,Financial strength,-0.6
+Quick Ratio (MRQ),1.66,0.75,Financial strength,2.2133333333333334
+Interest Coverage (MRQ),3.35,13.38,Financial strength,0.25037369207772797

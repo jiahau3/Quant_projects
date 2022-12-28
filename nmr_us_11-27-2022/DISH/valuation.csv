@@ -1,0 +1,23 @@
+,DISH,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",5.31,15.8,Valuation,0.33607594936708857
+Price/Sales (TTM),0.5,2.92,Valuation,0.17123287671232876
+Price/Book (MRQ),0.5,3.23,Valuation,0.15479876160990713
+"PEG Ratio (TTM, GAAP)",,10.23,Valuation,
+Gross Profit Margin (TTM),0.32670000000000005,0.5389,Profitability,0.6062349229912786
+Operating Profit Margin (TTM),0.13949999999999999,0.14,Profitability,0.9964285714285712
+Net Profit Margin (TTM),0.1161,0.1103,Profitability,1.0525838621940162
+Annual Dividend Yield,,0.0176,Dividend,
+Dividend Change %,,0.056900000000000006,Dividend,
+"Dividend Growth Rate, 3 Years",,0.0675,Dividend,
+EPS Growth (MRQ),-0.212,0.7041,Gowth rates,-0.3010935946598495
+EPS Growth (TTM),-0.2772,0.0154,Gowth rates,-18.0
+Revenue Growth (MRQ),-0.027200000000000002,0.1423,Gowth rates,-0.19114546732255797
+Revenue Growth (TTM),-0.050499999999999996,0.1115,Gowth rates,-0.452914798206278
+Return On Equity (TTM),0.1202,0.1409,Effectiveness,0.8530872959545778
+Return On Assets (TTM),0.044000000000000004,0.0388,Effectiveness,1.1340206185567012
+Return On Investment (TTM),0.0514,0.049800000000000004,Effectiveness,1.0321285140562249
+Revenue Per Employee (TTM),1178117.0,648551.0,Effectiveness,1.8165371728668986
+Total Debt/Total Capital (MRQ),0.5272,0.5946,Financial strength,0.8866464850319542
+Change in Debt/Total Capital Quarter over Quarter,0.0001,0.0004,Financial strength,0.25
+Quick Ratio (MRQ),0.4,0.26,Financial strength,1.5384615384615385
+Interest Coverage (MRQ),,5.53,Financial strength,

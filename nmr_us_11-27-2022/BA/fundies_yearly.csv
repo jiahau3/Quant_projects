@@ -1,0 +1,130 @@
+,2017,2018,2019,2020,2021,2022,Q4 2021,Q1 2022,Q2 2022,Q3 2022,Report
+high,299.33,394.28,446.01,349.95,278.57,229.67,,,,,
+low,265.23,292.47,309.4,89.0,185.26,113.02,,,,,
+change,0.1045,0.0904,0.030299999999999997,-0.34850000000000003,-0.041299999999999996,-0.1257,,,,,
+Date,,,,,,,2021-12-31 00:00:00,2022-03-31 00:00:00,2022-06-30 00:00:00,2022-09-30 00:00:00,Balance Sheet
+Cash & Equivalents,,,,,,,8052.0,7409.0,10090.0,13494.0,Balance Sheet
+Short Term Investments,,,,,,,8192.0,4873.0,1358.0,763.0,Balance Sheet
+Cash and Short Term Invs,,,,,,,16244.0,12282.0,11448.0,14257.0,Balance Sheet
+"Trade Accts Recvble, Gross",,,,,,,,2797.0,3144.0,2812.0,Balance Sheet
+Prov. for Doubtful Accts,,,,,,,,-390.0,-148.0,-139.0,Balance Sheet
+"Trade Accts Recvble, Net",,,,,,,11261.0,11398.0,12390.0,11989.0,Balance Sheet
+Notes Recvble - Short Term,,,,,,,117.0,157.0,159.0,155.0,Balance Sheet
+"Total Receivables, Net",,,,,,,11378.0,11555.0,12549.0,12144.0,Balance Sheet
+Invent. - Work In Progress,,,,,,,872.0,821.0,637.0,488.0,Balance Sheet
+Invent. - Raw Materials,,,,,,,9845.0,9759.0,9799.0,9737.0,Balance Sheet
+Inventories - Other,,,,,,,68106.0,69239.0,69481.0,69552.0,Balance Sheet
+Total Inventory,,,,,,,78823.0,79819.0,79917.0,79777.0,Balance Sheet
+"Other Curr. Assets, Total",,,,,,,2221.0,2356.0,2086.0,3073.0,Balance Sheet
+Total Current Assets,,,,,,,108666.0,106012.0,106000.0,109251.0,Balance Sheet
+Prop./Plant/Equip. - Gross,,,,,,,31456.0,31514.0,31588.0,31716.0,Balance Sheet
+Accumulated Depreciation,,,,,,,-20538.0,-20759.0,-20971.0,-21208.0,Balance Sheet
+Prop./Plant/Equip. - Net,,,,,,,10918.0,10755.0,10617.0,10508.0,Balance Sheet
+"Goodwill, Net",,,,,,,8068.0,8065.0,8055.0,8045.0,Balance Sheet
+Intangibles - Net,,,,,,,1587.0,1468.0,1567.0,1474.0,Balance Sheet
+LT Invt. - Affiliate Comp.,,,,,,,930.0,947.0,942.0,944.0,Balance Sheet
+LT Investments - Other,,,,,,,45.0,45.0,39.0,35.0,Balance Sheet
+Long Term Investments,,,,,,,975.0,992.0,981.0,979.0,Balance Sheet
+Note Rcvble - Long Term,,,,,,,1695.0,1580.0,1542.0,1513.0,Balance Sheet
+Other Long Term Assets,,,,,,,6566.0,6838.0,6611.0,5711.0,Balance Sheet
+Total Assets,,,,,,,138552.0,135801.0,135479.0,137558.0,Balance Sheet
+Accounts Payable,,,,,,,9261.0,8779.0,9575.0,9793.0,Balance Sheet
+Accrued Expenses,,,,,,,18455.0,17864.0,17752.0,21217.0,Balance Sheet
+Notes Payable/ST Debt,,,,,,,0.0,0.0,0.0,0.0,Balance Sheet
+Curr. Port. LT Dbt/Cap Ls.,,,,,,,1296.0,2591.0,5406.0,5431.0,Balance Sheet
+"Other Curr. Lblts, Total",,,,,,,52980.0,52458.0,52066.0,53177.0,Balance Sheet
+Total Current Liabilities,,,,,,,81992.0,81692.0,84799.0,89618.0,Balance Sheet
+Total Long Term Debt,,,,,,,56806.0,55150.0,51794.0,51788.0,Balance Sheet
+Total Debt,,,,,,,58102.0,57741.0,57200.0,57219.0,Balance Sheet
+Deferred Income Tax,,,,,,,218.0,158.0,38.0,230.0,Balance Sheet
+Minority Interest,,,,,,,153.0,130.0,97.0,64.0,Balance Sheet
+Pension Benefits - Underfunded,,,,,,,12632.0,12190.0,11748.0,11307.0,Balance Sheet
+Other LT Liabilities,,,,,,,1750.0,1879.0,1891.0,2250.0,Balance Sheet
+"Other Liabilities, Total",,,,,,,14382.0,14069.0,13639.0,13557.0,Balance Sheet
+Total Liabilities,,,,,,,153551.0,151199.0,150367.0,155257.0,Balance Sheet
+Common Stock,,,,,,,5061.0,5061.0,5061.0,5061.0,Balance Sheet
+Additional Paid-In Capital,,,,,,,9052.0,9295.0,9475.0,9705.0,Balance Sheet
+Ret. Earn.(Accum. Deficit),,,,,,,34408.0,33189.0,33382.0,30107.0,Balance Sheet
+Treasury Stock - Common,,,,,,,-51861.0,-51573.0,-51319.0,-51054.0,Balance Sheet
+Unrealized Gain (Loss),,,,,,,1.0,1.0,1.0,-1.0,Balance Sheet
+Cum. Trans. Adjustment,,,,,,,-105.0,-81.0,-157.0,-228.0,Balance Sheet
+Min. Pension Lblty Adj.,,,,,,,-11561.0,-11425.0,-11293.0,-11162.0,Balance Sheet
+Other Comprehensive Income,,,,,,,6.0,135.0,-38.0,-127.0,Balance Sheet
+"Other Equity, Total",,,,,,,-11660.0,-11371.0,-11488.0,-11517.0,Balance Sheet
+Total Equity,,,,,,,-14999.0,-15398.0,-14888.0,-17699.0,Balance Sheet
+Total Liabilities & Shareholders’ Equity,,,,,,,138552.0,135801.0,135479.0,137558.0,Balance Sheet
+Ttl Comm. Shares Outs.,,,,,,,589.0,591.0,593.0,596.0,Balance Sheet
+Trsy. Shrs-Comm. Primary Iss.,,,,,,,423.0,421.0,419.0,417.0,Balance Sheet
+Date,,,,,,,2021-12-31 00:00:00,2022-03-31 00:00:00,2022-06-30 00:00:00,2022-09-30 00:00:00,Income Statement
+Total Revenue,,,,,,,14793.0,13991.0,16681.0,15956.0,Income Statement
+"Cost of Revenue, Total",,,,,,,17307.0,13645.0,14559.0,16778.0,Income Statement
+"Sell/Gen/AdminExpenses,Tot",,,,,,,988.0,863.0,668.0,1226.0,Income Statement
+Research & Development,,,,,,,678.0,633.0,698.0,727.0,Income Statement
+Unusual Expense (Income),,,,,,,6.0,-1.0,-1.0,0.0,Income Statement
+Loss(Gain)/Sale Asts (Oper),,,,,,,6.0,-1.0,-1.0,0.0,Income Statement
+Total Operating Expense,,,,,,,18964.0,15160.0,15907.0,18755.0,Income Statement
+Total Operating Income,,,,,,,-4171.0,-1169.0,774.0,-2799.0,Income Statement
+"Inter Expse,Net Non-Operat",,,,,,,-661.0,-630.0,-650.0,-621.0,Income Statement
+OtherNon-OperatInc (Expnse),,,,,,,132.0,181.0,253.0,288.0,Income Statement
+"Other, Net",,,,,,,132.0,181.0,253.0,288.0,Income Statement
+Income Before Tax,,,,,,,-4700.0,-1618.0,377.0,-3132.0,Income Statement
+Income Tax - Total,,,,,,,-536.0,-376.0,217.0,176.0,Income Statement
+Income After Tax,,,,,,,-4164.0,-1242.0,160.0,-3308.0,Income Statement
+Minority Interest,,,,,,,21.0,23.0,33.0,33.0,Income Statement
+Net Inc Before Extra Items,,,,,,,-4143.0,-1219.0,193.0,-3275.0,Income Statement
+Total Net Income,,,,,,,-4143.0,-1219.0,193.0,-3275.0,Income Statement
+Income Available to Common Excl. Extra. Items,,,,,,,-4143.0,-1219.0,193.0,-3275.0,Income Statement
+Income Available to Common Incl. Extra. Items,,,,,,,-4143.0,-1219.0,193.0,-3275.0,Income Statement
+Basic/Primary Weighted Average Shares,,,,,,,589.0,592.0,596.0,596.0,Income Statement
+Basic/Primary EPS Excl. Extra. Items,,,,,,,-7.04,-2.06,0.32,-5.49,Income Statement
+Basic/Primary EPS Incl. Extra. Items,,,,,,,-7.04,-2.06,0.32,-5.49,Income Statement
+Diluted Weighted Average Shares,,,,,,,589.0,592.0,596.0,596.0,Income Statement
+Diluted EPS Excl. Extra. Items,,,,,,,-7.04,-2.06,0.32,-5.49,Income Statement
+Diluted EPS Incl. Extra. Items,,,,,,,-7.04,-2.06,0.32,-5.49,Income Statement
+Div/Share-ComStockPrimIssue,,,,,,,,0.0,0.0,0.0,Income Statement
+Gross Divid - Common Stock,,,,,,,0.0,0.0,0.0,0.0,Income Statement
+Pro Forma Net Income,,,,,,,,,,,Income Statement
+"Interest Expense, Suppl",,,,,,,661.0,630.0,650.0,621.0,Income Statement
+"Depreciat/Amort, Suppl",,,,,,,534.0,486.0,498.0,493.0,Income Statement
+Total Special Items,,,,,,,457.0,571.0,384.0,805.0,Income Statement
+Normalzd Income Before Tax,,,,,,,-4243.0,-1047.0,761.0,-2327.0,Income Statement
+Efct/SpecItemsIncTxs (STEC),,,,,,,160.0,200.0,221.0,282.0,Income Statement
+IncTxsExcl ImpctofSpec Itms,,,,,,,-376.0,-176.0,438.0,458.0,Income Statement
+Normalized Income After Tax,,,,,,,-3867.0,-871.0,323.0,-2785.0,Income Statement
+Normalzd Inc Avail to Common,,,,,,,-3846.0,-848.0,356.0,-2752.0,Income Statement
+Basic Normalized EPS,,,,,,,-6.54,-1.43,0.6,-4.61,Income Statement
+Diluted Normalized EPS,,,,,,,-6.54,-1.43,0.6,-4.61,Income Statement
+Date,,,,,,,2021-12-31 00:00:00,2022-03-31 00:00:00,2022-06-30 00:00:00,2022-09-30 00:00:00,Cash Flow
+Net Income,,,,,,,-4290.0,-1242.0,-1082.0,-4390.0,Cash Flow
+Depreciation/Depletion,,,,,,,2144.0,486.0,984.0,1477.0,Cash Flow
+Unusual Items,,,,,,,3281.0,71.0,70.0,76.0,Cash Flow
+Other Non-Cash Items,,,,,,,2426.0,755.0,1266.0,1883.0,Cash Flow
+Non-Cash Items,,,,,,,5707.0,826.0,1336.0,1959.0,Cash Flow
+Accounts Receivable,,,,,,,-356.0,-504.0,-1296.0,758.0,Cash Flow
+Inventories,,,,,,,-1127.0,-1203.0,-1260.0,-1164.0,Cash Flow
+Other Assets,,,,,,,345.0,140.0,144.0,-860.0,Cash Flow
+Accounts Payable,,,,,,,-3783.0,-369.0,395.0,590.0,Cash Flow
+Accrued Expenses,,,,,,,-3687.0,-594.0,-835.0,2416.0,Cash Flow
+Changes in Working Capital,,,,,,,-6977.0,-3286.0,-4373.0,1009.0,Cash Flow
+Total Cash from Operations,,,,,,,-3416.0,-3216.0,-3135.0,55.0,Cash Flow
+Capital Expenditures,,,,,,,-980.0,-349.0,-612.0,-896.0,Cash Flow
+Acquisition of Business,,,,,,,-6.0,,,,Cash Flow
+Sale of Fixed Assets,,,,,,,529.0,8.0,16.0,19.0,Cash Flow
+Sale/Maturity of Investment,,,,,,,45489.0,5037.0,9296.0,10182.0,Cash Flow
+Purchase of Investments,,,,,,,-35713.0,-1732.0,-2471.0,-2773.0,Cash Flow
+Other Investing Cash Flow,,,,,,,5.0,1.0,2.0,-11.0,Cash Flow
+"OtherInvestCashFlowItms,Tot",,,,,,,10304.0,3314.0,6843.0,7417.0,Cash Flow
+Total Cash from Investing,,,,,,,9324.0,2965.0,6231.0,6521.0,Cash Flow
+Financing Cash Flow Items,,,,,,,-66.0,-32.0,-34.0,-36.0,Cash Flow
+"Iss (Retirmnt) of Stock,Net",,,,,,,42.0,30.0,34.0,39.0,Cash Flow
+Total Debt Issued,,,,,,,9795.0,2.0,15.0,19.0,Cash Flow
+Total Debt Reduction,,,,,,,-15371.0,-396.0,-1013.0,-1038.0,Cash Flow
+"Iss (Retirmnt) of Debt, Net",,,,,,,-5576.0,-394.0,-998.0,-1019.0,Cash Flow
+Total Cash From Financing,,,,,,,-5600.0,-396.0,-998.0,-1016.0,Cash Flow
+Foreign Exchange Effects,,,,,,,-39.0,-3.0,-71.0,-134.0,Cash Flow
+Net Change in Cash,,,,,,,269.0,-650.0,2027.0,5426.0,Cash Flow
+NetCash-BeginBal/RsvdforFutUse,,,,,,,7835.0,8104.0,8104.0,8104.0,Cash Flow
+NetCash-EndBal/RsrvforFutUse,,,,,,,8104.0,7454.0,10131.0,13530.0,Cash Flow
+"Depreciation, Supplemental",,,,,,,2144.0,486.0,984.0,1477.0,Cash Flow
+Free Cash Flow,,,,,,,-4396.0,-3565.0,-3747.0,-841.0,
+FCF Growth,,,,,,,,-0.18903548680618742,0.05105189340813454,-0.7755537763544169,

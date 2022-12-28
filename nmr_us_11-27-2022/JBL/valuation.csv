@@ -1,0 +1,23 @@
+,JBL,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",10.21,21.62,Valuation,0.47224791859389453
+Price/Sales (TTM),0.28,5.43,Valuation,0.05156537753222837
+Price/Book (MRQ),3.9,5.49,Valuation,0.7103825136612022
+"PEG Ratio (TTM, GAAP)",0.98,14.73,Valuation,0.06653088934147997
+Gross Profit Margin (TTM),0.0786,0.33659999999999995,Profitability,0.23351158645276296
+Operating Profit Margin (TTM),0.0415,-0.0824,Profitability,-0.5036407766990292
+Net Profit Margin (TTM),0.0298,-0.1173,Profitability,-0.25404944586530265
+Annual Dividend Yield,0.0045000000000000005,0.0088,Dividend,0.5113636363636364
+Dividend Change %,0.0,0.0488,Dividend,0.0
+"Dividend Growth Rate, 3 Years",0.0,0.046,Dividend,0.0
+EPS Growth (MRQ),0.4769,0.1058,Gowth rates,4.507561436672968
+EPS Growth (TTM),0.5097,-0.0147,Gowth rates,-34.673469387755105
+Revenue Growth (MRQ),0.0843,0.1655,Gowth rates,0.5093655589123867
+Revenue Growth (TTM),0.1432,0.1855,Gowth rates,0.7719676549865229
+Return On Equity (TTM),0.4343,0.23850000000000002,Effectiveness,1.820964360587002
+Return On Assets (TTM),0.05480000000000001,0.0752,Effectiveness,0.7287234042553192
+Return On Investment (TTM),0.16620000000000001,0.1041,Effectiveness,1.596541786743516
+Revenue Per Employee (TTM),133912.0,449465.0,Effectiveness,0.2979364355400309
+Total Debt/Total Capital (MRQ),0.5656,0.3575,Financial strength,1.5820979020979022
+Change in Debt/Total Capital Quarter over Quarter,-0.0006,0.0362,Financial strength,-0.016574585635359112
+Quick Ratio (MRQ),0.57,1.53,Financial strength,0.3725490196078431
+Interest Coverage (MRQ),9.93,15.46,Financial strength,0.6423027166882276

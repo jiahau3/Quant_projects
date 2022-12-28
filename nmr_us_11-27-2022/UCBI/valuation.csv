@@ -1,0 +1,23 @@
+,UCBI,Industry,Type,Ratio to Industry
+"Price/Earnings (TTM, GAAP)",16.78,11.43,Valuation,1.468066491688539
+Price/Sales (TTM),5.06,3.3,Valuation,1.5333333333333332
+Price/Book (MRQ),1.64,1.46,Valuation,1.1232876712328768
+"PEG Ratio (TTM, GAAP)",,1.15,Valuation,
+Gross Profit Margin (TTM),,0.0072,Profitability,
+Operating Profit Margin (TTM),0.3848,0.34240000000000004,Profitability,1.1238317757009344
+Net Profit Margin (TTM),0.3019,0.2812,Profitability,1.0736130867709814
+Annual Dividend Yield,0.0225,0.028700000000000003,Dividend,0.78397212543554
+Dividend Change %,0.0833,-0.0086,Dividend,-9.686046511627907
+"Dividend Growth Rate, 3 Years",0.1038,0.0734,Dividend,1.4141689373297002
+EPS Growth (MRQ),0.2207,-0.0335,Gowth rates,-6.588059701492537
+EPS Growth (TTM),-0.2409,-0.09960000000000001,Gowth rates,2.4186746987951806
+Revenue Growth (MRQ),0.14150000000000001,0.5429,Gowth rates,0.2606373181064653
+Revenue Growth (TTM),0.2115,0.2466,Gowth rates,0.8576642335766422
+Return On Equity (TTM),0.1051,0.1135,Effectiveness,0.9259911894273127
+Return On Assets (TTM),0.0115,0.0099,Effectiveness,1.1616161616161615
+Return On Investment (TTM),,-0.0004,Effectiveness,
+Revenue Per Employee (TTM),,7475.75,Effectiveness,
+Total Debt/Total Capital (MRQ),,0.0086,Financial strength,
+Change in Debt/Total Capital Quarter over Quarter,0.0008,0.0009,Financial strength,0.888888888888889
+Quick Ratio (MRQ),,,Financial strength,
+Interest Coverage (MRQ),,,Financial strength,
